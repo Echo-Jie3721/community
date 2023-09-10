@@ -1,4 +1,4 @@
-package com.tencent.wemeet.gateway.restapisdk.util;
+package echo.com.community_test.provider;
 
 import lombok.extern.slf4j.Slf4j;
 import okhttp3.OkHttpClient;
